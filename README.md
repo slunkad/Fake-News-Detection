@@ -1,4 +1,4 @@
-# Fake-News-Detection
+# Fake News Detection
 With the rise of information on social media and the internet, distinguishing between genuine news and misleading content has become increasingly difficult. 
 
 This project aims to develop a robust and accurate system that leverages machine learning techniques to automatically detect fake news. 
@@ -34,4 +34,4 @@ The four models that I implemented have precision and recall as follows:
 | Gradient Boost Classifier | 0.99 | 1 | 1 |
 | Random Forest | 0.99 | 0.99 | 0.99 |
 
-Gradient Boost Classifier looks like the best model for the fake news detection problem
+Gradient Boost Classifier looks like the best model for this fake news detection problem
